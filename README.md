@@ -74,3 +74,13 @@ Interpretação de indicadores de desempenho
 Estrutura de um projeto de portfólio
 Documentação técnica
 Utilização do gitHub para apresentação do trabalho
+
+# COMO UTILIZAR
+
+Descarregar ou clone este repositório
+Abra o ficheiro do excel do projeto
+Explora as abas de dados para compreender a estrutura das informações
+Consulte a aba INDICADORES para analisar os resultados calculados
+Abra a aba DASHBOARD para visualizar os principais indicadores
+Experimente alterar os dados de simulação e observe como os resultados se modificam
+
